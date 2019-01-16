@@ -123,7 +123,7 @@ const Index = () => (
             Say <a href="mailto:shawnfarsai@gmail.com">Hi</a> or find me on
             other platforms:{" "}
             <a href="https://www.linkedin.com/in/shawn-farsai-42746a69/">
-              Dribbble
+              LinkedIn
             </a>{" "}
             & <a href="https://twitter.com/shawn_farsai">Twitter</a>
           </ContactText>
