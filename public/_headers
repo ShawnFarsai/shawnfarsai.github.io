@@ -1,0 +1,16 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/offline-plugin-app-shell-fallback/
+  Link: </webpack-runtime-632a84b0a84f3db32818.js>; rel=preload; as=script
+  Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-fd22451e7aa5866fe881.js>; rel=preload; as=script
+/
+  Link: </webpack-runtime-632a84b0a84f3db32818.js>; rel=preload; as=script
+  Link: </5.7a7b9b7e84c299bd4935.css>; rel=preload; as=script
